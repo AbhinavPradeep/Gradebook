@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhin\\Dev\\GradeBook\\src\\gradebook\\gradebook.csproj": {}
+    "C:\\Users\\Abhin\\Dev\\GradeBook\\Gradebook\\src\\gradebook\\gradebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhin\\Dev\\GradeBook\\src\\gradebook\\gradebook.csproj": {
+    "C:\\Users\\Abhin\\Dev\\GradeBook\\Gradebook\\src\\gradebook\\gradebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhin\\Dev\\GradeBook\\src\\gradebook\\gradebook.csproj",
+        "projectUniqueName": "C:\\Users\\Abhin\\Dev\\GradeBook\\Gradebook\\src\\gradebook\\gradebook.csproj",
         "projectName": "gradebook",
-        "projectPath": "C:\\Users\\Abhin\\Dev\\GradeBook\\src\\gradebook\\gradebook.csproj",
+        "projectPath": "C:\\Users\\Abhin\\Dev\\GradeBook\\Gradebook\\src\\gradebook\\gradebook.csproj",
         "packagesPath": "C:\\Users\\Abhin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhin\\Dev\\GradeBook\\src\\gradebook\\obj\\",
+        "outputPath": "C:\\Users\\Abhin\\Dev\\GradeBook\\Gradebook\\src\\gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
